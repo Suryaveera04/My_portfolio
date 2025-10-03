@@ -9,6 +9,7 @@
     "build": "react-scripts build",
     "dev": "next dev",
     "lint": "next lint",
+    "vercel-build": "npm run build && npm run export",
     "start": "react-scripts start"
   },
   "dependencies": {
