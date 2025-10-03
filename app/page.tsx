@@ -216,8 +216,8 @@ export default function DynamicPortfolio() {
     ],
     skills: {
       os: ["Windows", "Linux", "Mac OS"],
-      languages: ["C", "Python", "HTML", "Java"],
-      databases: ["MS Access"],
+      languages: ["C", "Python", "HTML","CSS", "Java Script", "Java"],
+      databases: ["SQL", "PHP"],
       interests: ["Computer Networks", "Web Development"],
     },
     interpersonal: [
@@ -242,6 +242,7 @@ export default function DynamicPortfolio() {
       "NASSCOM Digital 101",
       "Cyber Security Essentials & Digital Defence",
       "Gen-AI and Product Building from Idea to Deployment",
+      "Cisco Certifiaction on Network Essential"
     ],
   }
 
